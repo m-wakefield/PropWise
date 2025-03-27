@@ -1,8 +1,0 @@
-<img src="assets/PropWise_logo.png" alt="Logo" />
-.logo {
-  background-image: url('assets/logo.png');
-  width: 100px;
-  height: 100px;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
